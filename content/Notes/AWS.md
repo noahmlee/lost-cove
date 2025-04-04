@@ -5,6 +5,7 @@ tags:
   - notes
   - webdev
   - tools/services
+  - aws
 ---
 ## EC2
 
