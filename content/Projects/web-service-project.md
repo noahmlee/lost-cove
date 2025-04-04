@@ -14,7 +14,7 @@ tags:
 ---
 <p align="center"><img src="webservice_diagram.jpg" /></p>
 
-## Web Service Middleware Project
+## Web Service Project
 
 While working in QA with a client that develops custom applications for shipping companies, I was given the task of building a backend-only web service to bridge the gap between the client’s mobile app and their customers’ existing databases. This project served as a middleware integration layer, handling both user authentication and secure shipment data retrieval.
 ### Purpose
