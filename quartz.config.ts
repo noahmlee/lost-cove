@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f4f5f7", // Clean off-white, like mobile suit armor
+          lightgray: "#cdd3dc", // Panel lines and soft borders (cool gray)
+          gray: "#a0a8b2", // Stronger gray for graph links and heavy UI elements
+          darkgray: "#3d4753", // Body text, cockpit console gray
+          dark: "#111827", // Headers/icons, black paint & panel markings
+          secondary: "#0070f3", // Federation sensor blue, link color
+          tertiary: "#ff2e63", // Warning light pink/red, hover/visited
+          highlight: "#e6f7ff", // Light blue sensor glow for code + internal links
+          textHighlight: "#fffbe6",
         },
         darkMode: {
-          light: "#133337",
-          lightgray: "#393639",
-          gray: "#ff9248",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#bae1ff",
-          tertiary: "#ffb3ba",
-          highlight: "ffffba",
-          textHighlight: "#ffffba",
+          light: "#0e0f11", // Near-black with a hint of green decay
+          lightgray: "#2b2d30", // Muted steel for borders
+          gray: "#44474a", // Heavy border + graph links, oxidized dark iron
+          darkgray: "#8b8f93", // Body text, like worn concrete
+          dark: "#d7dadc", // Headers/icons, bright but soft neutral
+          secondary: "#68d391", // Soft bioluminescent green (links, graph focus)
+          tertiary: "#c084fc", // Violet glow for hover/visited, dreamy tech
+          highlight: "#264d3d", // Faint forest green background highlight
+          textHighlight: "#373e2f",
         },
       },
     },
