@@ -29,7 +29,7 @@ APIs are everywhere and can do a wide variety of tasks:
 
 - **Payment APIs** – Stripe, PayPal, Square
 - **Authentication APIs** – Google OAuth, Auth0, Firebase Auth
-- **Social Media APIs** – Twitter API, Facebook Graph API, Instagram Basic Display API
+- **Social Media APIs** – Bluesky API, Facebook Graph API, Instagram Basic Display API
 - **Mapping APIs** – Google Maps, Mapbox
 - **Weather APIs** – OpenWeatherMap, WeatherStack
 
