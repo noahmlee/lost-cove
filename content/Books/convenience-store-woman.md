@@ -1,6 +1,6 @@
 ---
 title: Convenience Store Woman
-draft: 
+draft: true
 tags:
   - book
   - fiction

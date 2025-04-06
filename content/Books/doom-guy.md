@@ -1,6 +1,6 @@
 ---
 title: "Doom Guy: Life in First Person"
-draft: 
+draft: true
 tags:
   - book
   - autobiography

@@ -1,6 +1,6 @@
 ---
 title: AWS
-draft: false
+draft: true
 tags:
   - notes
   - webdev

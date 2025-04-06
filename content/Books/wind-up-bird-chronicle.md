@@ -1,6 +1,6 @@
 ---
 title: The Wind-Up Bird Chronicle
-draft: 
+draft: true
 tags:
   - book
   - fiction
