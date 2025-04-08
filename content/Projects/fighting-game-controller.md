@@ -37,6 +37,9 @@ While there are a plethora of ready-to-go, pre-made options to choose from onlin
 - Can certainly be more expensive than pre-made options depending on your build.
 
 ## My build
+<p align="center"><img src="controller-fin-bottom.jpg" /></p>
+<p align="center"><img src="controller-fin-top.jpg" /></p>
+
 
 Okay time to brag about my build. I decided to go with a leverless controller which unlike traditional fight sticks, had no arcade style joystick. There are only buttons. Buttons for movement, buttons for attacks, buttons for menus, just... buttons. 
 I decided on a leverless controller for two main reasons:
