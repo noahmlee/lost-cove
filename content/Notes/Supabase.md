@@ -7,6 +7,7 @@ tags:
   - backend
   - database
   - postgresql
+  - supabase
 ---
 ## Supabase
 
