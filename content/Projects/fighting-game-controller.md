@@ -37,8 +37,10 @@ While there are a plethora of ready-to-go, pre-made options to choose from onlin
 - Can certainly be more expensive than pre-made options depending on your build.
 
 ## My build
-<p align="center"><img src="controller-fin-bottom.jpg" /></p>
+
+**Disclaimer:** These glam shots were taken about 2 years after I finished the controller, and it has seen some use in that time.
 <p align="center"><img src="controller-fin-top.jpg" /></p>
+<p align="center"><img src="controller-fin-bottom.jpg" /></p>
 
 
 Okay time to brag about my build. I decided to go with a leverless controller which unlike traditional fight sticks, had no arcade style joystick. There are only buttons. Buttons for movement, buttons for attacks, buttons for menus, just... buttons. 
@@ -74,3 +76,8 @@ After deciding what type of controller I wanted to make it was time to procure p
 - Wire strippers
 - Wire crimpers
 - Screwdriver
+
+### Words of Warning
+**DO NOT OVER-TIGHTEN YOUR SCREWS!** You'll most likely crack your enclosure as seen by my example bellow:
+
+<p align="center"><img src="controller-crack-1.jpg" /></p>
