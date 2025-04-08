@@ -78,6 +78,6 @@ After deciding what type of controller I wanted to make it was time to procure p
 - Screwdriver
 
 ### Words of Warning
-**DO NOT OVER-TIGHTEN YOUR SCREWS!** You'll most likely crack your enclosure as seen by my example bellow:
+**DO NOT OVER-TIGHTEN YOUR SCREWS!** You will crack your enclosure as seen by my example bellow:
 
 <p align="center"><img src="controller-crack-1.jpg" /></p>
