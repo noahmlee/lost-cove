@@ -4,7 +4,6 @@ draft:
 tags:
   - project
   - webdev
-  - backend
   - api
   - aws
   - express
