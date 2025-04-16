@@ -49,11 +49,11 @@ REST APIs are stateless, meaning each request contains all the information neede
 A RESTful API typically returns data in JSON format, although XML or other formats are sometimes used.
 
 **Example:**
-```
+```js
 GET /users/123 Host: api.example.com Authorization: Bearer <token>
 ```
 Response:
-```
+```json
 {   
 	"id": 123,
 	"name": "Jane Doe",

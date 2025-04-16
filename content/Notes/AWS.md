@@ -61,7 +61,7 @@ AWS is the toolbox you open when you want to deploy something to the cloud — s
 - `AWS CLI`: Manage resources from the command line  
     `aws configure` to get started (access key & secret key)
 - `aws-sdk`: Use AWS from Node.js
-	```
+	```js
     const AWS = require('aws-sdk');
     const s3 = new AWS.S3();
     ```

@@ -14,7 +14,7 @@ React is a JavaScript library for building user interfaces. It's component-based
 
 React apps are typically bootstrapped using tools like `create-react-app`, `Vite`, or `Next.js`. For smaller projects or quick prototyping, Vite is a popular choice:
 
-```
+```bash
 npm create vite@latest my-app --template react
 ```
 
@@ -23,7 +23,7 @@ npm create vite@latest my-app --template react
 React components can be functional or class-based. Modern React favors functional components with hooks.
 
 ### Basic Functional Component
-```
+```js
 function Welcome({ name }) {
 	return <h1>Hello, {name}!</h1>;
 }
@@ -31,7 +31,7 @@ function Welcome({ name }) {
 
 ### Component with State
 
-```
+```js
 import { useState } from 'react';
 	
 function Counter() {
@@ -58,7 +58,7 @@ Manages local component state.
 
 ### useEffect
 
-```
+```js
 useEffect(() => {
 	// Side effect logic here
 	
@@ -72,7 +72,7 @@ Handles side effects like data fetching or subscriptions.
 
 ### useRef
 
-```
+```js
 const inputRef = useRef();
 
 <input ref={inputRef} />;
@@ -82,7 +82,7 @@ Accesses DOM elements or stores mutable values that persist across renders.
 
 ### useContext
 
-```
+```js
 const ThemeContext = createContext();
 
 function App() {
@@ -105,7 +105,7 @@ Passes data through the component tree without prop drilling.
 
 Create reusable logic with custom hooks. They should start with `use`.
 
-```
+```js
 // useToggle.js
 import { useState } from 'react';
 

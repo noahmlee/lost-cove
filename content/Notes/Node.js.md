@@ -30,11 +30,11 @@ Node.js is a runtime environment that lets you run JavaScript outside the browse
     `npm install some-package` adds dependencies to your project.
 - **CommonJS (`require`) vs ES Modules (`import`)**  
     Node started with `require`, but now supports `import` too — just add `"type": "module"` to `package.json`.
-```
+```js
 // CommonJS
 const fs = require('fs');
 ```
-```
+```js
 // ES Module
 import fs from 'fs';
 ```
@@ -51,7 +51,7 @@ import fs from 'fs';
 ---
 
 ### Example: Tiny Server
-```
+```js
 const http = require('http');
 const server = http.createServer((req, res) => {
 	res.writeHead(200, { 'Content-Type': 'text/plain' });

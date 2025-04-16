@@ -46,7 +46,7 @@ Perfect for projects where you want a full backend fast but still want full cont
 ---
 
 ### Example: Connecting in a Frontend App
-```
+```js
 import { createClient } from '@supabase/supabase-js';
 
 const supabase = createClient(
@@ -74,7 +74,7 @@ const supabase = createClient(
 ---
 
 ### Auth Example
-```
+```js
 // Sign up
 await supabase.auth.signUp({
 	email: 'email@example.com',
@@ -91,7 +91,7 @@ await supabase.auth.signInWithPassword({
 ---
 
 ### Storage Example
-```
+```js
 const { data, error } = await supabase.storage
 	.from('images')
 	.upload('folder/file.png', file);

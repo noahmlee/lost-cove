@@ -17,7 +17,7 @@ Code can get complex and messy, making it nearly impossible to read and understa
 #### 1. **Functions and Methods**
 
 Instead of repeating logic over and over, we abstract it into a reusable function.
-```
+```js
 function calculateArea(width, height) {
 	return width * height;
 }
@@ -28,7 +28,7 @@ We don't need to know how the area is calculated every time—we just use `calcu
 #### 2. **Classes and Objects**
 
 Object-oriented programming allows you to model complex behavior and data in a simplified way.
-```
+```js
 class Animal {
 	makeSound() {
 		console.log("Some sound");
@@ -47,7 +47,7 @@ We can interact with the object through `makeSound()` without needing to know th
 #### 3. **APIs and Libraries**
 
 When you use a library or API, you're leveraging abstraction. You don’t need to know how it works internally—just how to use it.
-```
+```js
 fetch("https://api.example.com/data")
 	.then((res) => res.json())
 	.then((data) => console.log(data));
