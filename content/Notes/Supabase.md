@@ -11,7 +11,7 @@ tags:
 ---
 ## Supabase
 
-Supabase is basically the open-source Firebase — but it’s built on **PostgreSQL**. You get a hosted DB, real-time listeners, auth, storage, and REST/GraphQL APIs — all out of the box.
+Supabase is basically the open-source Firebase, but it’s built on **PostgreSQL**. You get a hosted DB, real-time listeners, auth, storage, and REST/GraphQL APIs, all out of the box.
 
 Perfect for projects where you want a full backend fast but still want full control.
 
@@ -40,7 +40,7 @@ Perfect for projects where you want a full backend fast but still want full cont
     
 3. You get a Postgres DB and a dashboard.
     
-4. Grab your **anon/public** key and **project URL** from the settings — you’ll need these for frontend.
+4. Grab your **anon/public** key and **project URL** from the settings, you’ll need these for frontend.
     
 
 ---
@@ -64,7 +64,7 @@ const supabase = createClient(
 - Tables = instant REST API.  
     You can do `.select()`, `.insert()`, `.update()`, etc.
     
-- Row-level security (RLS) is on by default — set up **policies** or nothing will work.
+- Row-level security (RLS) is on by default, set up **policies** or nothing will work.
     
 - Use **Supabase Studio** to manage your data, auth, and storage visually.
     

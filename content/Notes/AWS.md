@@ -9,7 +9,7 @@ tags:
 ---
 ## AWS (Amazon Web Services)
 
-AWS is the toolbox you open when you want to deploy something to the cloud — storage, servers, databases, you name it. It's vast, powerful, and a little overwhelming at first. But once you learn what you actually _need_, it becomes way more manageable.
+AWS is the toolbox you open when you want to deploy something to the cloud. Storage, servers, databases, you name it. It's vast, powerful, and a little overwhelming at first. But once you learn what you actually _need_, it becomes way more manageable.
 
 ---
 
@@ -49,9 +49,9 @@ AWS is the toolbox you open when you want to deploy something to the cloud — s
 
 ### Notes to Self
 
-- Always create a **new user** in IAM and give it scoped permissions — never use your root account for anything besides billing and creating IAM users.
+- Always create a **new user** in IAM and give it scoped permissions, never use your root account for anything besides billing and creating IAM users.
 - **Security Groups** = firewall rules for your instance. Open only what you need.
-- EC2 instance IPs can change — use **Elastic IP** if you want it to stay the same.
+- EC2 instance IPs can change, use **Elastic IP** if you want it to stay the same.
 - Set up **SSL** with Let's Encrypt + Nginx or use **CloudFront** in front of S3 for HTTPS.
 
 ---

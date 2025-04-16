@@ -23,7 +23,7 @@ function calculateArea(width, height) {
 }
 ```
 
-We don't need to know how the area is calculated every time—we just use `calculateArea()`.
+We don't need to know how the area is calculated every time, we just use `calculateArea()`.
 
 #### 2. **Classes and Objects**
 
@@ -46,7 +46,7 @@ We can interact with the object through `makeSound()` without needing to know th
 
 #### 3. **APIs and Libraries**
 
-When you use a library or API, you're leveraging abstraction. You don’t need to know how it works internally—just how to use it.
+When you use a library or API, you're leveraging abstraction. You don’t need to know how it works internally, just how to use it.
 ```js
 fetch("https://api.example.com/data")
 	.then((res) => res.json())

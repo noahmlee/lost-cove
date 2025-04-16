@@ -9,7 +9,7 @@ tags:
 ---
 ## Node.js
 
-Node.js is a runtime environment that lets you run JavaScript outside the browser — built on Chrome’s V8 engine. It's what you use when you want to build servers, CLIs, scripts, or pretty much anything backend in JavaScript.
+Node.js is a runtime environment that lets you run JavaScript outside the browser, built on Chrome’s V8 engine. It's what you use when you want to build servers, CLIs, scripts, or pretty much anything backend in JavaScript.
 
 ---
 
@@ -29,7 +29,7 @@ Node.js is a runtime environment that lets you run JavaScript outside the browse
 - **npm**: Node’s package manager.  
     `npm install some-package` adds dependencies to your project.
 - **CommonJS (`require`) vs ES Modules (`import`)**  
-    Node started with `require`, but now supports `import` too — just add `"type": "module"` to `package.json`.
+    Node started with `require`, but now supports `import` too, just add `"type": "module"` to `package.json`.
 ```js
 // CommonJS
 const fs = require('fs');

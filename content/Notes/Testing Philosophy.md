@@ -7,7 +7,7 @@ tags:
 ---
 ## Testing Philosophy
 
-Developers are notoriously kind to the software they create. This is human nature—we’re close to our code and tend to use it as we intended it to be used. However, real users often take unexpected paths or run into edge cases that weren't accounted for during development. That’s where testing becomes essential.
+Developers are notoriously kind to the software they create. This is human nature, we’re close to our code and tend to use it as we intended it to be used. However, real users often take unexpected paths or run into edge cases that weren't accounted for during development. That’s where testing becomes essential.
 
 ### Verification and Validation
 
@@ -37,10 +37,10 @@ Testers are the defenders of the user experience. They serve as advocates for re
 
 ### Key Takeaways
 
-- Don’t trust your own code too much—test it like someone else wrote it.
+- Don’t trust your own code too much, test it like someone else wrote it.
     
 - Focus on both what the software _does_ and what it _should do_.
     
 - Prioritize test cases based on risk, likelihood of use, and potential impact.
     
-- Think like a user—but also like a mischievous one who’s trying to break things.
+- Think like a user, but also like a mischievous one who’s trying to break things.

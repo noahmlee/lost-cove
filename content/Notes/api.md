@@ -9,7 +9,7 @@ tags:
 ---
 ## What Is an API?
 
-API stands for **Application Programming Interface**. In simple terms, an API is a way for two systems—whether apps, servers, or devices—to communicate with each other. It defines a contract for how data should be requested, sent, and received between these systems.
+API stands for **Application Programming Interface**. In simple terms, an API is a way for two systems, whether apps, servers, or devices, to communicate with each other. It defines a contract for how data should be requested, sent, and received between these systems.
 
 Think of an API like a waiter at a restaurant. You (the client) tell the waiter what you want (your request), the waiter communicates with the kitchen (the server), and then brings you your order (the response). The entire exchange follows a specific format so that everyone knows what to expect.
 
@@ -35,7 +35,7 @@ APIs are everywhere and can do a wide variety of tasks:
 
 ## What Is a REST API?
 
-REST stands for **Representational State Transfer**. It is a popular architectural style for designing APIs that use HTTP as the communication protocol. REST APIs work with resources—such as users, posts, or products—and use standard HTTP methods to interact with those resources.
+REST stands for **Representational State Transfer**. It is a popular architectural style for designing APIs that use HTTP as the communication protocol. REST APIs work with resources, such as users, posts, or products, and use standard HTTP methods to interact with those resources.
 
 ### Core HTTP Methods in REST:
 
@@ -65,7 +65,7 @@ Response:
 
 ### API Client
 
-This is the application making the request—like a browser, mobile app, or another backend server.
+This is the application making the request, like a browser, mobile app, or another backend server.
 
 ### API Request
 
