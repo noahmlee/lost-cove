@@ -1,18 +1,20 @@
 ---
 title: Abstraction
-draft: 
+draft: false
 tags:
   - notes
   - programming-concepts
 ---
 ## Abstraction (In Programming)
+
 Abstraction is a simple concept with varying degrees of complexity in its execution. In programming, abstraction simplifies complex systems by hiding unnecessary details, focusing on essential functionality and making code easier to understand, maintain, and build upon.
 
 ---
-### Why Write Abstract Code?
+## Why Write Abstract Code?
+
 Code can get complex and messy, making it nearly impossible to read and understand. The further we abstract from the nitty-gritty details, and just focus on the actual functionality that is provided in the code, the easier the code will be to understand
 
-### Examples of Abstraction in Code
+## Examples of Abstraction in Code
 
 #### 1. **Functions and Methods**
 
@@ -56,7 +58,7 @@ We don’t know what’s happening inside `fetch()`, but we trust it to work.
 
 ---
 
-### What Should Be Abstracted?
+## What Should Be Abstracted?
 
 - **Complex Logic:** If a block of code does a lot, put it in a well-named function.
     
