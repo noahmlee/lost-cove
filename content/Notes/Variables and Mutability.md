@@ -2,9 +2,9 @@
 title: Variables and Mutability
 draft:
 tags:
+  - notes
   - computer-science
-  - data-types
-  - rust
+  - programming-concepts
 ---
 
 ## Variables and Mutability

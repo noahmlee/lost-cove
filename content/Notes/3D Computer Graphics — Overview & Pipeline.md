@@ -2,6 +2,7 @@
 Title: Computer Graphics Overview
 draft:
 tags:
+  - notes
   - computer-science
   - graphics
 ---

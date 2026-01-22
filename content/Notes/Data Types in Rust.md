@@ -2,6 +2,7 @@
 title: Rust Data Types
 draft:
 tags:
+  - notes
   - computer-science
   - rust
   - data-types

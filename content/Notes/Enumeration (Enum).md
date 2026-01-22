@@ -2,6 +2,7 @@
 title: Enumeration (Enum)
 draft: false
 tags:
+  - notes
   - computer-science
   - data-types
 ---
