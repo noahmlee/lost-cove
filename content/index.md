@@ -1,5 +1,5 @@
 ---
-title: The Hidden Cove
+title: The Lost Cove
 ---
 ![[overgrown_gundam.jpg]]
 ## Howdy, my name is Noah.
