@@ -1,6 +1,6 @@
 ---
 title: Supabase
-draft: 
+draft:
 tags:
   - notes
   - tools/services
@@ -8,6 +8,7 @@ tags:
   - database
   - postgresql
   - supabase
+  - computer-science
 ---
 ## Supabase
 

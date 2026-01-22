@@ -1,10 +1,11 @@
 ---
 title: React
-draft: 
+draft:
 tags:
   - notes
   - react
   - webdev
+  - computer-science
 ---
 # React
 

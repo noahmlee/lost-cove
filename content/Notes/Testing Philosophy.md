@@ -1,9 +1,10 @@
 ---
 title: Testing Philosophy
-draft: 
+draft:
 tags:
   - notes
   - programming-concepts
+  - computer-science
 ---
 ## Testing Philosophy
 

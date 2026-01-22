@@ -4,6 +4,7 @@ draft: false
 tags:
   - notes
   - programming-concepts
+  - computer-science
 ---
 ## Abstraction (In Programming)
 

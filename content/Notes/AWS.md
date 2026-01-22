@@ -6,6 +6,7 @@ tags:
   - webdev
   - tools/services
   - aws
+  - computer-science
 ---
 ## AWS (Amazon Web Services)
 
