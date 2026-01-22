@@ -15,3 +15,4 @@ Also feel free to reach out to me in relation to work, this website, or just to 
 **Socials:**
 - [LinkedIn](https://www.linkedin.com/in/nmckadelee/)
 - [GitHub](https://github.com/noahmlee)
+- Email: me@noahlee.dev
