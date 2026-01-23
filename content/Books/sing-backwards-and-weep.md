@@ -6,7 +6,7 @@ tags:
   - autobiography
   - Mark_Lanegan
 ---
-<p align="center"><img src="sbaw_ml.jpg" /></p>
+<p align="center"><img width=400 height=640 src="sbaw_ml.jpg" /></p>
 
 ## Summary
 

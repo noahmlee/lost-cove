@@ -6,6 +6,8 @@ tags:
   - fiction
   - Sayaka_Murata
 ---
+<p align="center"><img width=400 height=640 src="csw_sm.jpg" /></p>
+
 ## Summary
 
 _Convenience Store Woman_ by Sayaka Murata is a quietly unsettling novel that follows Keiko Furukura, a 36-year-old Japanese woman who has worked at the same convenience store for nearly half her life. In a society obsessed with marriage, career progression, and “normalcy,” Keiko finds comfort, purpose, and identity in the rigid routines of her job. As outside pressure mounts for her to change, the novel explores what it means to live authentically in a world that insists on conformity.
