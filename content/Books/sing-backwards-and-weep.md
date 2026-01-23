@@ -1,10 +1,10 @@
 ---
 title: "Sing Backwards and Weep: A Memoir"
-draft: 
+draft:
 tags:
   - book
   - autobiography
-  - mark_lanegan
+  - Mark_Lanegan
 ---
 <p align="center"><img src="sbaw_ml.jpg" /></p>
 
