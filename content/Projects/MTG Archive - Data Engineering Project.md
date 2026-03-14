@@ -8,7 +8,7 @@ tags:
   - python
   - docker
   - aws
-draft: true
+draft: false
 title: MTG Archive
 ---
 # MTG Archive
