@@ -15,7 +15,7 @@ title: MTG Archive
 This was a project I started to sharpen my data engineering skills while also building something I could actually put in front of people. The premise is simple: pull every Magic: The Gathering card and its daily pricing data from the internet, store it in a database, and serve it through a dashboard where you can search cards and track prices.
 
 ## What is Magic: The Gathering?
-Magic: The Gathering is a trading card game that has been around since 1993. It has a massive secondary market where individual cards can range in value from a few cents to thousands of dollars. The most expensive card I track, a Mox Emerald, sits at around $3,600. With over 100,000 unique printings across 855 sets, it's a surprisingly rich dataset to work with.
+Magic: The Gathering is a trading card game that has been around since 1993. It has a massive secondary market where individual cards can range in value from a few cents to thousands of dollars. The most expensive card I track, currently a Mox Emerald, sits at around $3,600. With over 100,000 unique printings across 855 sets, it's a surprisingly rich dataset to work with.
 
 ## Why build this?
 I wanted a project that touched every layer of a real data pipeline: ingestion, storage, transformation, API serving, and a frontend to display it all. Most tutorial projects stop at "get data and put it in a database." I wanted to go further and actually deploy something that runs on a schedule, updates itself daily, and is accessible to anyone on the internet.
