@@ -1,6 +1,6 @@
 ---
 tit: Python Data Types
-draft:
+draft: false
 tags:
   - computer-science
   - python
